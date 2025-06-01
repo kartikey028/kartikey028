@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [kartikeymaurya.netlify.app](kartikeymaurya.netlify.app)
+- 👨‍💻 All of my projects are available at [kartikeymaurya.netlify.app](https://kartikeymaurya.netlify.app/)
 
 - 📫 How to reach me **kartikeymaurya07@gmail.com**
 
